@@ -1,1 +1,2 @@
-console.log()
+let x = "Rafie Ghallap";
+console.log(x);
